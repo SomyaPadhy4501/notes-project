@@ -1,0 +1,11 @@
+.main-footer {
+    color: grey;
+    background-color: rgb(155, 255, 200);
+    padding-top: 30px;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 15px;
+    border-radius: 10px;
+  }
